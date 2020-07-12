@@ -1,0 +1,20 @@
+*{
+	background-color: black;
+	font-family: 'arial';
+	padding: 0px;
+	margin: 0px;
+}
+.siva{
+
+}
+.navbar{
+	background-color: #f0000b;
+	height: 100px;
+	width: 100%;
+	z-index: 1;
+}
+
+h1{
+	color: blue;
+	font-size: 200px;
+}
